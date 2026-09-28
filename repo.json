@@ -3,8 +3,8 @@
     "Author": "WowLookThatGuy",
     "Name": "Retainer Gear Optimizer",
     "InternalName": "RetainerGearOptimizer",
-    "AssemblyVersion": "0.1.0.0",
-    "Description": "Cycles through every retainer at a summoning bell and equips each combat (DoW/DoM) retainer with the highest item level gear it can wear from your main inventory (Inventory 1-4). The armoury chest is ignored. Gathering retainers are skipped for now.\n\nOpen a summoning bell, then use /rgo start or the Start button in /rgo.",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "Cycles through every retainer at a summoning bell and distributes gear from your main inventory (Inventory 1-4) across all combat (DoW/DoM) retainers to maximize their total item level. Gear a retainer drops when it's upgraded can be passed down to another retainer in the same run, and no retainer ever loses item level in any slot. The armoury chest is ignored and gathering retainers are skipped for now.\n\nOpen a summoning bell, then use /rgo start or the Start button in /rgo. Enable Dry run in /rgo to preview the plan without moving anything.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WowLookThatGuy/RetainerGearOptimizer",
     "Tags": [
@@ -18,11 +18,11 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Equip your combat retainers with the highest item level gear in your inventory.",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.0.0/RetainerGearOptimizer.zip",
-    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.0.0/RetainerGearOptimizer.zip",
-    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.0.0/RetainerGearOptimizer.zip",
-    "LastUpdate": 1790619367
+    "Punchline": "Distribute the gear in your inventory across all your combat retainers for the highest total item level.",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
+    "LastUpdate": 1790619982
   }
 ]
