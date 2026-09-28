@@ -23,6 +23,7 @@
     "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
     "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
     "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
-    "LastUpdate": 1790619982
+    "LastUpdate": 1790619982,
+    "IconUrl": "https://raw.githubusercontent.com/WowLookThatGuy/DalamudPlugins/main/icons/RetainerGearOptimizer.png"
   }
 ]

@@ -54,6 +54,9 @@ Requirements for the plugin repository:
 - An Actions secret `PLUGIN_REPO_TOKEN`: a fine-grained personal access token limited to this repository with
   **Contents: Read and write**.
 
+Icons live in `icons/<InternalName>.png` (square PNG, 64-512 px). Pass the raw URL of the icon as `icon-url` in the
+plugin's publish workflow so it is kept in `repo.json` on every publish.
+
 Each publish uploads the zip to a release tagged `<InternalName>-v<AssemblyVersion>` in this repository and replaces the
 plugin's entry in `repo.json` with its manifest plus download links. Bump the plugin's version for every release, since Dalamud
 only offers an update when `AssemblyVersion` increases.
