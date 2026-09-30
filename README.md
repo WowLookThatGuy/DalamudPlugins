@@ -16,6 +16,7 @@ tick **Enabled**, save, then install from `/xlplugins`. Updates arrive automatic
 
 | Plugin | Source |
 | --- | --- |
+| Best Gear All | [WowLookThatGuy/BestGearAll](https://github.com/WowLookThatGuy/BestGearAll) |
 | Retainer Gear Optimizer | [WowLookThatGuy/RetainerGearOptimizer](https://github.com/WowLookThatGuy/RetainerGearOptimizer) |
 
 ## Publishing a plugin
