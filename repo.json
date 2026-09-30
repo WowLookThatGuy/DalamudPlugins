@@ -3,14 +3,15 @@
     "Author": "WowLookThatGuy",
     "Name": "Retainer Gear Optimizer",
     "InternalName": "RetainerGearOptimizer",
-    "AssemblyVersion": "0.1.1.0",
-    "Description": "Cycles through every retainer at a summoning bell and distributes gear from your main inventory (Inventory 1-4) across all combat (DoW/DoM) retainers to maximize their total item level. Gear a retainer drops when it's upgraded can be passed down to another retainer in the same run, and no retainer ever loses item level in any slot. The armoury chest is ignored and gathering retainers are skipped for now.\n\nOpen a summoning bell, then use /rgo start or the Start button in /rgo. Enable Dry run in /rgo to preview the plan without moving anything.",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Cycles through every retainer at a summoning bell and distributes gear from your main inventory (Inventory 1-4) across all of them. Combat (DoW/DoM) retainers get the highest total item level; gathering (MIN/BTN/FSH) retainers get the highest total Gathering and Perception, counting HQ bonuses and melded materia. Gear a retainer drops when it's upgraded can be passed down to another retainer in the same run, and no retainer ever gets worse in any slot. The armoury chest is ignored.\n\nOpen a summoning bell, then use /rgo start or the Start button in /rgo. Enable Dry run in /rgo to preview the plan without moving anything.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WowLookThatGuy/RetainerGearOptimizer",
     "Tags": [
       "retainer",
       "gear",
       "equipment",
+      "gathering",
       "utility"
     ],
     "DalamudApiLevel": 15,
@@ -18,12 +19,12 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Distribute the gear in your inventory across all your combat retainers for the highest total item level.",
+    "Punchline": "Distribute the gear in your inventory across all your retainers: highest item level for combat, best Gathering and Perception for gatherers.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
-    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
-    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.1.1.0/RetainerGearOptimizer.zip",
-    "LastUpdate": 1790619982,
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.2.0.0/RetainerGearOptimizer.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.2.0.0/RetainerGearOptimizer.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerGearOptimizer-v0.2.0.0/RetainerGearOptimizer.zip",
+    "LastUpdate": 1790779181,
     "IconUrl": "https://raw.githubusercontent.com/WowLookThatGuy/DalamudPlugins/main/icons/RetainerGearOptimizer.png"
   }
 ]
