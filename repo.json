@@ -1,6 +1,32 @@
 [
   {
     "Author": "WowLookThatGuy",
+    "Name": "Best Gear All",
+    "InternalName": "BestGearAll",
+    "AssemblyVersion": "0.4.0.0",
+    "Description": "Updates saved gearsets using FFXIV's Recommended Gear calculation. Includes background and traditional updaters, Armoury Chest organization, displaced-gear cleanup, and a clickable server-info-bar status shortcut for starting Background Update.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/WowLookThatGuy/BestGearAll",
+    "Tags": [
+      "gear",
+      "gearset",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Update gearsets with Recommended Gear and organize the Armoury Chest.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/BestGearAll-v0.4.0.0/BestGearAll.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/BestGearAll-v0.4.0.0/BestGearAll.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/BestGearAll-v0.4.0.0/BestGearAll.zip",
+    "LastUpdate": 1790783527,
+    "IconUrl": "https://raw.githubusercontent.com/WowLookThatGuy/DalamudPlugins/main/icons/BestGearAll.png"
+  },
+  {
+    "Author": "WowLookThatGuy",
     "Name": "Retainer Gear Optimizer",
     "InternalName": "RetainerGearOptimizer",
     "AssemblyVersion": "0.2.0.0",
