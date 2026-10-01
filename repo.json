@@ -26,6 +26,30 @@
     "IconUrl": "https://raw.githubusercontent.com/WowLookThatGuy/DalamudPlugins/main/icons/BestGearAll.png"
   },
   {
+    "Author": "Isaac Thomas",
+    "Name": "InNeedQueue",
+    "InternalName": "InNeedQueue",
+    "AssemblyVersion": "0.8.0.0",
+    "Description": "Role-based roulette monitoring with priorities, random queue delay, daily reward filtering, and five-minute presence checks.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "roulette",
+      "queue",
+      "adventurer in need"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Queue selected roulettes when your role is in need.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.8.0.0/InNeedQueue.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.8.0.0/InNeedQueue.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.8.0.0/InNeedQueue.zip",
+    "LastUpdate": 1790878988
+  },
+  {
     "Author": "WowLookThatGuy",
     "Name": "Retainer Gear Optimizer",
     "InternalName": "RetainerGearOptimizer",
