@@ -29,7 +29,7 @@
     "Author": "WowLookThatGuy",
     "Name": "InNeedQueue",
     "InternalName": "InNeedQueue",
-    "AssemblyVersion": "0.8.1.0",
+    "AssemblyVersion": "0.9.0.0",
     "Description": "Role-based roulette monitoring with priorities, random queue delay, daily reward filtering, and five-minute presence checks.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -44,10 +44,10 @@
     "LoadPriority": 0,
     "Punchline": "Queue selected roulettes when your role is in need.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.8.1.0/InNeedQueue.zip",
-    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.8.1.0/InNeedQueue.zip",
-    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.8.1.0/InNeedQueue.zip",
-    "LastUpdate": 1790879315
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.9.0.0/InNeedQueue.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.9.0.0/InNeedQueue.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/InNeedQueue-v0.9.0.0/InNeedQueue.zip",
+    "LastUpdate": 1791043629
   },
   {
     "Author": "WowLookThatGuy",
