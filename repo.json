@@ -1,6 +1,32 @@
 [
   {
     "Author": "WowLookThatGuy",
+    "Name": "AvailableHousingSearch",
+    "InternalName": "AvailableHousingSearch",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Open the \"Go to specified ward\" menu at a residential aetheryte, run /ahs, and press Scan.\r\nAHS steps through all 30 wards, then reports every unowned plot with ward, plot number, size, price,\r\npurchase method (lottery / first come first served), FC/individual restriction and lottery phase.\r\nFilter the report by small, medium and large plots.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/WowLookThatGuy/AvailableHousingSearch",
+    "Tags": [
+      "housing",
+      "plots",
+      "lottery",
+      "ward"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Scan a residential district's wards and list every plot you can buy.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/AvailableHousingSearch-v0.1.0.0/AvailableHousingSearch.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/AvailableHousingSearch-v0.1.0.0/AvailableHousingSearch.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/AvailableHousingSearch-v0.1.0.0/AvailableHousingSearch.zip",
+    "LastUpdate": 1791311777
+  },
+  {
+    "Author": "WowLookThatGuy",
     "Name": "Best Gear All",
     "InternalName": "BestGearAll",
     "AssemblyVersion": "0.4.0.0",
