@@ -81,7 +81,7 @@
     "Author": "WowLookThatGuy",
     "Name": "Retainer Venture Assigner",
     "InternalName": "RetainerVentureAssigner",
-    "AssemblyVersion": "0.1.10.0",
+    "AssemblyVersion": "0.1.11.0",
     "Description": "Open the retainer list at a summoning bell and let the plugin pick and assign the optimal venture for each retainer. Rewards mode maximizes expected item value (Universalis prices with vendor-price fallback); EXP mode maximizes retainer experience. Use /rva to open the window.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WowLookThatGuy/RetainerVentureAssigner",
@@ -97,10 +97,10 @@
     "LoadPriority": 0,
     "Punchline": "Assigns the best venture to every retainer, for loot or for EXP.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerVentureAssigner-v0.1.10.0/RetainerVentureAssigner.zip",
-    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerVentureAssigner-v0.1.10.0/RetainerVentureAssigner.zip",
-    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerVentureAssigner-v0.1.10.0/RetainerVentureAssigner.zip",
-    "LastUpdate": 1791256802,
+    "DownloadLinkInstall": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerVentureAssigner-v0.1.11.0/RetainerVentureAssigner.zip",
+    "DownloadLinkUpdate": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerVentureAssigner-v0.1.11.0/RetainerVentureAssigner.zip",
+    "DownloadLinkTesting": "https://github.com/WowLookThatGuy/DalamudPlugins/releases/download/RetainerVentureAssigner-v0.1.11.0/RetainerVentureAssigner.zip",
+    "LastUpdate": 1791257203,
     "IconUrl": "https://raw.githubusercontent.com/WowLookThatGuy/DalamudPlugins/main/icons/RetainerVentureAssigner.png"
   }
 ]
